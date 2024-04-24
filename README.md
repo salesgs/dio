@@ -12,7 +12,7 @@ GIT é um sistema de versão distribuído, ele  permite      trabalhar com repos
    ## | Repositório | 🔨
    É a cópia do projeto que pode ser obtida de forma local pelos desenvolvedores do projeto. Assim cada membro da equipe, pode ter em sua máquina local uma versão ou versões do projeto.
  
-  ## | Branchs ou "Ramificações" | 🔨
+  ## | Branchs ou "Ramificações" | 🔨 
   São partes, ramos isolados da aplicação que podem ser criados distintamente para serem desenvolvidas e depois mescladas ao resto da aplicação. 
 
   ## | Merge | 🔨
