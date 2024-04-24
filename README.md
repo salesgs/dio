@@ -1,5 +1,5 @@
 
-# Resumo ${ GIT }
+# Resumo [ GIT ]
 
 ## 📚 Link documentação abaixo
 
